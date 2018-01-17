@@ -8,6 +8,3 @@ def display_board
   puts line
   puts row
 end
-
-:display_board
-display_board
