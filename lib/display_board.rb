@@ -4,11 +4,11 @@ line = "-----------"
 
 def display_board
   puts "Welcome to Tic Tac Toe"
-  puts row
-  puts line
-  puts row
-  puts line
-  puts row
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
 
 :display_board
